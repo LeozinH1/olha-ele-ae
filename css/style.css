@@ -24,6 +24,7 @@ ul.clear {
 .wrapper .content {
   margin: 0 auto;
   max-width: 1200px;
+  padding: 100px 0;
 }
 
 .wrapper .content .header {
