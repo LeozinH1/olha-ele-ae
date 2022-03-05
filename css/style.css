@@ -4,6 +4,8 @@
   font-family: "Poppins", sans-serif;
   margin: 0;
   padding: 0;
+  font-size: 1rem;
+  font-weight: 500;
 }
 
 p {
@@ -31,8 +33,14 @@ ul {
 }
 
 .wrapper .content .header h1 {
+  font-weight: 700;
 }
 
 .wrapper .content .header span {
   color: rgb(129, 129, 129);
+  font-size: 0.8rem;
+}
+
+h2 {
+  font-weight: 700;
 }
